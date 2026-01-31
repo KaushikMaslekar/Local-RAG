@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv_py312/
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Data files
+*.pdf
+*.csv
+text_chunks_and_embeddings_df.csv
+
+# Model cache
+.cache/
+models/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
